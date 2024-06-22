@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "numbers-flying.gl.joinmc.link",
-          "assigned_srv": "numbers-flying.gl.joinmc.link",
+          "assigned_domain": "components-global.gl.joinmc.link",
+          "assigned_srv": "components-global.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "b095d624-7822-4fb5-b24a-be819f3e8066",
+          "id": "fcef418d-b14f-42e3-b65a-34e433df9dbf",
           "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 14504,
-          "port_start": 14503,
+          "port_end": 37419,
+          "port_start": 37418,
           "region": "global",
           "static_ip4": "147.185.221.20",
           "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-07T19:58:50.058894Z",
+      "created_at": "2024-06-22T18:53:44.578143Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "8e5c4f6f-d179-49dd-a911-b98333184203",
+      "id": "1e7035d9-a224-4d4a-b59d-9177150736fa",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "e9a58e24-f717-44ff-8244-f0907dea034e",
-          "agent_name": "IpStatic GitHub",
+          "agent_id": "8b9e76cd-de43-453f-88ec-1ac64f586f45",
+          "agent_name": "Server2",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
@@ -54,35 +54,35 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "some-pricing.gl.at.ply.gg",
+          "assigned_domain": "international-edited.gl.at.ply.gg",
           "assigned_srv": null,
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "e0b2ad5c-7140-46dd-9192-43f147bc8824",
+          "id": "f61d5ee0-b3b7-41e3-876c-09775cd786a8",
           "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 1591,
-          "port_start": 1590,
+          "port_end": 1603,
+          "port_start": 1602,
           "region": "global",
           "static_ip4": "147.185.221.20",
           "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-07T20:06:19.477673Z",
+      "created_at": "2024-06-22T19:07:44.860334Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "cd5926d6-9283-4955-b88e-1b0cbdbbab65",
+      "id": "79aa5ae3-64b9-4b38-bfa6-75300c620f29",
       "name": "Minecraft Bedrock",
       "origin": {
         "data": {
-          "agent_id": "e9a58e24-f717-44ff-8244-f0907dea034e",
-          "agent_name": "IpStatic GitHub",
+          "agent_id": "8b9e76cd-de43-453f-88ec-1ac64f586f45",
+          "agent_name": "Server2",
           "local_ip": "127.0.0.1",
-          "local_port": 1590
+          "local_port": 25565
         },
         "type": "agent"
       },
